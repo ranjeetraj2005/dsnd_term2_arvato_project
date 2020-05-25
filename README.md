@@ -5,7 +5,7 @@ In this project, you will analyze demographics data for customers of a mail-orde
 If you completed the first term of this program, you will be familiar with the first part of this project, from the unsupervised learning project. The versions of those two datasets used in this project will include many more features and has not been pre-cleaned. You are also free to choose whatever approach you'd like to analyzing the data rather than follow pre-determined steps. In your work on this project, make sure that you carefully document your steps and decisions, since your main deliverable for this project will be a blog post reporting your findings.
 
 
-Table of Contents
+## Table of Contents
 Project Overview
 Data
 Technical Overview
@@ -33,11 +33,11 @@ Step by step workflow from data exploration, processing to inference is approach
 
 Following concepts implemented and covered in detail in the notebook:
 
-  Part 1:
+  ### Part 1:
   Data Exploration & Data wrangling/Cleansing
   Principal component analysis (PCA)
   Customer Clustering
-  Part 2:
+  ### Part 2:
   Supervised Learning Model
   Final Model Evaluation
   Analyse most important feature Importance
@@ -53,5 +53,5 @@ Following concepts implemented and covered in detail in the notebook:
 6. Summary/Report of findings
   A detailed report can be found at: https://medium.com/@ranjeetraj2005/customer-segmentation-report-for-arvato-financial-services-a6c463d9373d
 
-Acknowledgements
+##Acknowledgements
 I would like to than Bertelsmann Arvato Analytics for providing the data used for this project and for all the mentors at Udacity.
